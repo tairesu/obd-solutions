@@ -1,4 +1,4 @@
 # obd-solutions
 
 
-OBD Solutions will retrieve information about OBD II codes 
+OBC Solutions will retrieve information about OBC II codes 
