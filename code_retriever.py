@@ -34,7 +34,7 @@ def retrieve_info(code):
 		soup = BeautifulSoup(html,'html.parser')
 		#name = soup.find('title').string
 
-		print(name)
+		#print(name)
 		
 
 def main():
